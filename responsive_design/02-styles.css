@@ -580,11 +580,11 @@ ul.row {
     min-height: 35vh;
 }
 
-/* Section BLOG
+/* Section Latest news
       ============================= */
 
-.section-blog .row {
-    flex-direction: column;
+.section-latest-news .row {
+    flex-direction: row-reverse;
 }
 
 /* Section SERVICES
