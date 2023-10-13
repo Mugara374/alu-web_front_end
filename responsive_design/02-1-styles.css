@@ -584,9 +584,14 @@ ul.row {
       ============================= */
 
 .section-latest-news .row {
-    flex-direction: column;
+    flex-direction: row-reverse;
 }
 
+@media screen and (max-width: 797px) {
+    .section-latest-news .row {
+        flex-direction: column;
+    }
+}
 /* Section SERVICES
       ============================= */
 
