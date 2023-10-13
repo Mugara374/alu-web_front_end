@@ -735,8 +735,8 @@ ul.row {
       ============================= */
 
 .hero-article {
-    background-size: 90rem auto;
-    background-position: 65% 8rem;
+    background-size: 150rem 100rem;
+    background-position: 50% 0;
 }
 
 .hero-article::before {
@@ -753,7 +753,7 @@ ul.row {
 .hero-article .section-inner {
     text-align: center;
     align-items: center;
-    min-height: 35vh;
+    min-height: 40vh;
 }
 
 .hero-article .section-body {
